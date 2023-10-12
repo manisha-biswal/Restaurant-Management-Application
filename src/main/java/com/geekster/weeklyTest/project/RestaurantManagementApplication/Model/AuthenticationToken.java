@@ -28,10 +28,7 @@ public class AuthenticationToken {
 
     //create a parameterized constructor which takes user as an argument
 
-    // Coded by: Amit Ashok Swain
-    // GitHub - amitashokswain
-    // E-mail - business.amitswain@gmail.com
-    // Instagram - _sanatani_hindutwa_
+   
 
     public AuthenticationToken(User user){
         this.user = user;
