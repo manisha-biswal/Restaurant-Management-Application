@@ -26,7 +26,3 @@ public class Admin {
     private String adminPassword;
 }
 
-// Coded by: Amit Ashok Swain
-// GitHub - amitashokswain
-// E-mail - business.amitswain@gmail.com
-// Instagram - _sanatani_hindutwa_
