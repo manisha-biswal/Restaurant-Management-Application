@@ -103,11 +103,7 @@ public class UserService {
         }
     }
 
-    // Coded by: Amit Ashok Swain
-    // GitHub - amitashokswain
-    // E-mail - business.amitswain@gmail.com
-    // Instagram - _sanatani_hindutwa_
-
+   
     public User findFirstByUserEmail(String email) {
         return userRepo.findFirstByUserEmail(email);
     }
