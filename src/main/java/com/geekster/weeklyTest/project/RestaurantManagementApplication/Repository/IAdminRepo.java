@@ -9,8 +9,3 @@ import org.springframework.stereotype.Repository;
 public interface IAdminRepo extends JpaRepository<Admin, Integer> {
     Admin findFirstByAdminEmail(String email);
 }
-
-// Coded by: Amit Ashok Swain
-// GitHub - amitashokswain
-// E-mail - business.amitswain@gmail.com
-// Instagram - _sanatani_hindutwa_
