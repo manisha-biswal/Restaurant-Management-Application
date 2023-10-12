@@ -9,7 +9,3 @@ public interface IOrderRepo extends JpaRepository<Order, Integer> {
 
 }
 
-// Coded by: Amit Ashok Swain
-// GitHub - amitashokswain
-// E-mail - business.amitswain@gmail.com
-// Instagram - _sanatani_hindutwa_
