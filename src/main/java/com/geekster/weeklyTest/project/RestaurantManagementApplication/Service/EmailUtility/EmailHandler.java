@@ -25,11 +25,7 @@ public class EmailHandler {
             }
         });
 
-        // Coded by: Amit Ashok Swain
-        // GitHub - amitashokswain
-        // E-mail - business.amitswain@gmail.com
-        // Instagram - _sanatani_hindutwa_
-
+       
         try {
             Message message = new MimeMessage(session);
             message.setFrom(new InternetAddress(EMAIL_USERNAME));
